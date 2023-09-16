@@ -6,6 +6,8 @@ enum ReportGrouping {
 	
 	CampHillReno('CAMP_HILL_RENO','CAMP_HILL_RENO'),	//grouping for specific expenses
 	
+	Future('FUTURE','FUTURE'),	//designates a future dated transaction
+
 	Invalid('Invalid','Invalid'),
 	Unknown('Unknown','Unknown');
 	

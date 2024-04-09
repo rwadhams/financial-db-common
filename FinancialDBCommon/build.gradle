@@ -8,6 +8,7 @@ plugins {
 }
 
 repositories {
+	mavenLocal()
 	// Use jcenter for resolving dependencies.
 	// You can declare any Maven/Ivy/file repository here.
 	jcenter()
@@ -16,8 +17,8 @@ repositories {
 group = 'com.wadhams.financials.db.common'
 version = '1.0'
 
-sourceCompatibility = 1.8
-targetCompatibility = 1.8
+sourceCompatibility=18
+targetCompatibility=18
 
 dependencies {
 	// Use the latest Groovy version for building this library

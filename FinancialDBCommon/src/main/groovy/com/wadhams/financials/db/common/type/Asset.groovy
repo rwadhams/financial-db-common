@@ -2,8 +2,9 @@ package com.wadhams.financials.db.common.type
 
 enum Asset {
 	CampHill('CAMP_HILL','CAMP_HILL'),
-	SaluteCaravan('SALUTE_CARAVAN','SALUTE_CARAVAN'),
 	Fingal('FINGAL','FINGAL'),
+	KimberleyKamper('KIMBERLEY_KAMPER','KIMBERLEY_KAMPER'),
+	SaluteCaravan('SALUTE_CARAVAN','SALUTE_CARAVAN'),
 	ToyotaLandcruiser('TOYOTA_LANDCRUISER','TOYOTA_LANDCRUISER'),
 	
 	Invalid('Invalid','Invalid'),

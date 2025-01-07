@@ -68,6 +68,16 @@ enum Category {
 	Gifts('GIFTS','GIFTS'),
 	HomeBrew('HOME_BREW','HOME_BREW'),
 	InsuranceFees('INSURANCE_FEES','INSURANCE_FEES'),
+
+	KimberleyKamperEquipment('KK_EQUIPMENT','KK_EQUIPMENT'),
+	KimberleyKamperInsurance('KK_INSURANCE','KK_INSURANCE'),
+	KimberleyKamperMaintenance('KK_MAINTENANCE','KK_MAINTENANCE'),
+	KimberleyKamperRego('KK_REGISTRATION','KK_REGISTRATION'),
+	KimberleyKamperRepair('KK_REPAIR','KK_REPAIR'),
+	KimberleyKamperServicing('KK_SERVICING','KK_SERVICING'),
+	KimberleyKamperStorage('KK_STORAGE','KK_STORAGE'),
+	KimberleyKamperSupplies('KK_SUPPLIES','KK_SUPPLIES'),
+	
 	Laundry('LAUNDRY','LAUNDRY'),
 	LegalFees('LEGAL_FEES','LEGAL_FEES'),
 	Media('MEDIA','MEDIA'),
@@ -84,9 +94,14 @@ enum Category {
 	PhonePlanMolly('PHONE_PLAN_MOLLY','PHONE_PLAN_MOLLY'),
 	PhonePlanRob('PHONE_PLAN_ROB','PHONE_PLAN_ROB'),
 	PreparedFood('PREPARED_FOOD','PREPARED_FOOD'),
+	
+	PreppingEquipment('PREPPING_EQUIPMENT','PREPPING_EQUIPMENT'),
+	PreppingSupplies('PREPPING_SUPPLIES','PREPPING_SUPPLIES'),
+	
 	RentalCar('RENTAL_CAR','RENTAL_CAR'),
 	Safety('SAFETY','SAFETY'),
 	SpecialActivity('SPECIAL_ACTIVITY','SPECIAL_ACTIVITY'),
+	StarLinkData('STAR_LINK_DATA','STAR_LINK_DATA'),
 	Technology('TECHNOLOGY','TECHNOLOGY'),
 	Tolls('TOLLS','TOLLS'),
 	Tools('TOOLS','TOOLS'),

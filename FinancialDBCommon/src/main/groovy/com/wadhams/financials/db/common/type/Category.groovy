@@ -4,7 +4,7 @@ enum Category {
 	Accomodation('ACCOMODATION','ACCOMODATION'),
 	AccountingFees('ACCOUNTING_FEES','ACCOUNTING_FEES'),
 	Alcohol('ALCOHOL','ALCOHOL'),
-	AssetRelatedCost('ASSET_RELATED_COST','ASSET_RELATED_COST'),
+	AssetPurchase('ASSET_PURCHASE', 'ASSET_PURCHASE'),
 	BankingFees('BANKING_FEES','BANKING_FEES'),
 	BassStraitFerry('BASS_STRAIT_FERRY','BASS_STRAIT_FERRY'),
 	
@@ -44,6 +44,7 @@ enum Category {
 	Cleaning('CLEANING','CLEANING'),
 	Clothing('CLOTHING','CLOTHING'),
 	CloudStorage('CLOUD_STORAGE','CLOUD_STORAGE'),
+	ConveyancingFees('CONVEYANCING_FEES', 'CONVEYANCING_FEES'),
 	DataPlan('DATA_PLAN','DATA_PLAN'),
 	Domestic_Travel('DOMESTIC_TRAVEL','DOMESTIC_TRAVEL'),
 	Drinks('DRINKS','DRINKS'),
@@ -78,6 +79,7 @@ enum Category {
 	KimberleyKamperStorage('KK_STORAGE','KK_STORAGE'),
 	KimberleyKamperSupplies('KK_SUPPLIES','KK_SUPPLIES'),
 	
+	LandTax('LAND_TAX', 'LAND_TAX'),
 	Laundry('LAUNDRY','LAUNDRY'),
 	LegalFees('LEGAL_FEES','LEGAL_FEES'),
 	Media('MEDIA','MEDIA'),
@@ -102,6 +104,7 @@ enum Category {
 	Safety('SAFETY','SAFETY'),
 	SpecialActivity('SPECIAL_ACTIVITY','SPECIAL_ACTIVITY'),
 	StarLinkData('STAR_LINK_DATA','STAR_LINK_DATA'),
+	StampDuty('STAMP_DUTY', 'STAMP_DUTY'),
 	Technology('TECHNOLOGY','TECHNOLOGY'),
 	Tolls('TOLLS','TOLLS'),
 	Tools('TOOLS','TOOLS'),

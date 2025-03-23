@@ -56,6 +56,7 @@ enum Category {
 	Ferry('FERRY','FERRY'),
 	
 	FingalEquipment('FINGAL_EQUIPMENT','FINGAL_EQUIPMENT'),
+	FingalImprovements('FINGAL_IMPROVEMENTS','FINGAL_IMPROVEMENTS'),
 	FingalLandTax('FINGAL_LAND_TAX','FINGAL_LAND_TAX'),
 	FingalRates('FINGAL_RATES','FINGAL_RATES'),
 	FingalShed('FINGAL_SHED','FINGAL_SHED'),

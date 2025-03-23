@@ -5,7 +5,7 @@ enum Asset {
 	Fingal('FINGAL','FINGAL'),
 	KimberleyKamper('KIMBERLEY_KAMPER','KIMBERLEY_KAMPER'),
 	SaluteCaravan('SALUTE_CARAVAN','SALUTE_CARAVAN'),
-	ToyotaLandcruiser('TOYOTA_LANDCRUISER','TOYOTA_LANDCRUISER'),
+	ToyotaLandCruiser('TOYOTA_LANDCRUISER','TOYOTA_LANDCRUISER'),
 	
 	Invalid('Invalid','Invalid'),
 	Unknown('Unknown','Unknown');

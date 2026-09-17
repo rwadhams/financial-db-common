@@ -4,7 +4,6 @@ enum Category {
 	Accomodation('ACCOMODATION','ACCOMODATION'),
 	AccountingFees('ACCOUNTING_FEES','ACCOUNTING_FEES'),
 	Alcohol('ALCOHOL','ALCOHOL'),
-//	AssetPurchase('ASSET_PURCHASE', 'ASSET_PURCHASE'),
 	BankingFees('BANKING_FEES','BANKING_FEES'),
 	BassStraitFerry('BASS_STRAIT_FERRY','BASS_STRAIT_FERRY'),
 	
@@ -41,11 +40,9 @@ enum Category {
 	CarRepair('CAR_REPAIR','CAR_REPAIR'),
 	CarServicing('CAR_SERVICING','CAR_SERVICING'),
 	
-//	Cash('CASH','CASH'),
 	Cleaning('CLEANING','CLEANING'),
 	Clothing('CLOTHING','CLOTHING'),
 	CloudStorage('CLOUD_STORAGE','CLOUD_STORAGE'),
-//	ConveyancingFees('CONVEYANCING_FEES', 'CONVEYANCING_FEES'),
 	DataPlan('DATA_PLAN','DATA_PLAN'),
 	Domestic_Travel('DOMESTIC_TRAVEL','DOMESTIC_TRAVEL'),
 	Drinks('DRINKS','DRINKS'),
@@ -54,7 +51,6 @@ enum Category {
 	Electronics('ELECTRONICS','ELECTRONICS'),
 	Entertainment('ENTERTAINMENT','ENTERTAINMENT'),
 	ExtraEquipment('EXTRA_EQUIPMENT','EXTRA_EQUIPMENT'),
-//	Ferry('FERRY','FERRY'),
 	
 	FingalEquipment('FINGAL_EQUIPMENT','FINGAL_EQUIPMENT'),
 	FingalImprovements('FINGAL_IMPROVEMENTS','FINGAL_IMPROVEMENTS'),
@@ -72,7 +68,6 @@ enum Category {
 	Fuel('FUEL','FUEL'),
 	Gifts('GIFTS','GIFTS'),
 	HomeBrew('HOME_BREW','HOME_BREW'),
-//	InsuranceFees('INSURANCE_FEES','INSURANCE_FEES'),
 
 	KimberleyKamperEquipment('KK_EQUIPMENT','KK_EQUIPMENT'),
 	KimberleyKamperInsurance('KK_INSURANCE','KK_INSURANCE'),
@@ -81,15 +76,13 @@ enum Category {
 	KimberleyKamperRego('KK_REGISTRATION','KK_REGISTRATION'),
 	KimberleyKamperRepair('KK_REPAIR','KK_REPAIR'),
 	KimberleyKamperServicing('KK_SERVICING','KK_SERVICING'),
-//	KimberleyKamperStorage('KK_STORAGE','KK_STORAGE'),
 	
-//	LandTax('LAND_TAX', 'LAND_TAX'),
 	Laundry('LAUNDRY','LAUNDRY'),
-//	LegalFees('LEGAL_FEES','LEGAL_FEES'),
 	Media('MEDIA','MEDIA'),
 	Medical('MEDICAL','MEDICAL'),
 	Membership('MEMBERSHIP','MEMBERSHIP'),
 	Misc('MISC','MISC'),
+	NZCampervan('NZ_CAMPERVAN','NZ_CAMPERVAN'),
 	Office('OFFICE','OFFICE'),
 	OnRoadFees('ONROAD_FEES','ONROAD_FEES'),
 	OverseasTravel('OVERSEAS_TRAVEL','OVERSEAS_TRAVEL'),
@@ -107,10 +100,8 @@ enum Category {
 	PreppingSupplies('PREPPING_SUPPLIES','PREPPING_SUPPLIES'),
 	
 	RentalCar('RENTAL_CAR','RENTAL_CAR'),
-//	Safety('SAFETY','SAFETY'),
 	SpecialActivity('SPECIAL_ACTIVITY','SPECIAL_ACTIVITY'),
 	StarLinkData('STAR_LINK_DATA','STAR_LINK_DATA'),
-//	StampDuty('STAMP_DUTY', 'STAMP_DUTY'),
 	Storage('STORAGE','STORAGE'),
 	Technology('TECHNOLOGY','TECHNOLOGY'),
 	Tolls('TOLLS','TOLLS'),
